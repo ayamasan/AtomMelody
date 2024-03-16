@@ -50,8 +50,8 @@ int lastplaytime = 0;
 #define BUFSIZE 1024
 int wifion = 0;  // 1=オン
 // アクセスポイント設定
-const char ssid[] = "HAS1";   // SSID
-const char pass[] = "0425195733";  // パスワード
+const char ssid[] = "xxxxxx";   // SSID
+const char pass[] = "xxxxxx";  // パスワード
 const int port = 60000;
 
 // IP固定する
